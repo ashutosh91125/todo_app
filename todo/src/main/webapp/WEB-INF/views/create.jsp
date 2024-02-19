@@ -14,7 +14,7 @@
 		<h3 class="text-center">Create Todo</h3>
 		<div>
 			<br> <a href="${pageContext.request.contextPath }/"><i
-				class="fa-solid fa-circle-chevron-left fa-xl"
+				class="fa-solid fa-circle-chevron-left icon fa-xl"
 				style="color: #63E6BE;"></i></a> <br>
 		</div>
 		<form mt-5 action="createTodo" method="post">
